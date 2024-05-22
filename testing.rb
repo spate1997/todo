@@ -1,4 +1,4 @@
-# Define a method to display the menu options to the user
+ # Define a method to display the menu options to the user
 def display_menu
   puts "Welcome to the To-Do List!"
   puts "1. Add task(s)"
